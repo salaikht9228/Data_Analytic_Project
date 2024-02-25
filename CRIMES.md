@@ -5,7 +5,7 @@ This project analyses modified open LA crime data, including the crime's date an
 This mini-project aims to determine which month and time of day has the highest number of crimes and which areas in LA have the highest crime rates during those periods.
 
 ### Data Source
-Crime Data: The primary dataset used for this analysis is the 'crimes.csv' file.
+Crime Data: The primary dataset used for this analysis is the 'crimes.csv' file. I can email the file if you want to explore the csv file.
 
 ### Libraries from Python
 - Panda - data cleaning and data synthesis
